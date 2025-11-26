@@ -6,6 +6,3 @@ cd $SCRIPT_DIR
 # https://yum.oracle.com/oracle-linux-nodejs.html#InstallingNodeOnOL8
 sudo dnf module enable -y nodejs:20
 sudo dnf module install -y nodejs
-
-npm install
-
